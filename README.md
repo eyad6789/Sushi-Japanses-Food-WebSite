@@ -71,4 +71,4 @@ Huge thanks to JavaScript Mastery for the amazing tutorials and inspiration!
 ## 🗾 Final Words
 This project combines modern web design principles with the aesthetic of Japanese culinary culture. Whether you're learning or looking for landing page inspiration, you're welcome to explore, fork, or contribute!
 
-## ⭐ If you like this project, don't forget to give it a star!
+### ⭐ If you like this project, don't forget to give it a star!
